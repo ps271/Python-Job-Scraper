@@ -1,3 +1,9 @@
 .venv
 .idea
-.log
+.env
+data/
+*.csv
+logs/
+*.log
+__pycache__/
+*.pyc
