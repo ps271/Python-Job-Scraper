@@ -1,0 +1,21 @@
+{
+  "base_url": "https://remoteok.com",
+  "max_jobs": 50,
+  "delay_range": [5, 10],
+
+  "remote_ok_filters": {
+    "tags": ["software", "engineer", "senior", "technical", "management", "engineering",
+      "cloud", "code", "backend", "developer", "api", "full-time", "devops", "microsoft",
+      "python", "linux"],
+    "mode": "OR"
+  },
+
+  "telegram": {
+    "enabled": true
+  },
+
+  "email": {
+    "enabled": true,
+    "recipient_emails": ["abc@gmail.com", "xyz@gmail.com"]
+  }
+}
