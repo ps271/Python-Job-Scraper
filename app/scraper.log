@@ -1,8 +1,0 @@
-2026-02-23 17:35:27,547 - ERROR - CAPTCHA detected — stopping scraper
-2026-02-23 17:35:27,548 - INFO - No more data -- Breaking the loop.
-2026-02-23 17:35:27,548 - INFO - Scraping finished. Total jobs: 0, runtime = 1.47s
-2026-02-23 18:26:09,560 - ERROR - CAPTCHA detected — stopping scraper
-2026-02-23 18:26:09,955 - INFO - Scraped 50 jobs, total so far = 50
-2026-02-23 18:26:19,241 - INFO - Scraped 50 jobs, total so far = 100
-2026-02-23 18:26:28,368 - INFO - Scraped 50 jobs, total so far = 150
-2026-02-23 18:26:28,369 - INFO - Scraping finished. Total jobs: 150, runtime = 27.11s
