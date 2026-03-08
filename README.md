@@ -41,8 +41,9 @@ credential management.
 2. Create a virtual environment and activate it
 3. Install Dependencies using command : 
 pip install -r requirements.txt
-4. Change directory by - cd app/
-5. Run - python -m main
+4. Create 2 directories in app/ namely - logs and data respectively
+5. Change directory by - cd app/
+6. Run - python -m main
 
 ---
 
